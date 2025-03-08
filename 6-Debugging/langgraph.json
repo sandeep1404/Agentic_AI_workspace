@@ -1,0 +1,8 @@
+{
+  "dependencies":["."],
+  "graphs":{
+    "openai_agent":"/home/sandeep/Desktop/agentic_ai/langgraph-20250216t154832z-001-0ab4a39f12ea4f640f117cb5809187ba/langgraph/6-Debugging/openai_agent.py"
+  },
+  "env":"/home/sandeep/Desktop/agentic_ai/.env"
+
+}
