@@ -20,6 +20,6 @@ jobs:
 
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_TOKEN: ${{secrets.HF_TOKEN}}
         run: git push --force https://Techiiot:$HF_TOKEN@huggingface.co/spaces/Techiiot/sandeep_basic_chatbot main
          
